@@ -23,6 +23,6 @@ Check:
 
 💻 [My portfolio](https://p11r.dev)
 
-📫 [Resume](https://https://registry.jsonresume.org/pgollangi)
+📫 [My resume](https://https://registry.jsonresume.org/pgollangi)
 
 Or get in touch with me on [Twitter](https://twitter.com/pkgollangi)
