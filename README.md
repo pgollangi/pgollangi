@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+I'm a developer who likes to work with Javascript 🤓
+
+Check:
+
+❤️ [My website](https://pgollangi.com/)
+
+💻 [My portfolio](https://p11r.dev)
+
+📫 [Resume](https://https://registry.jsonresume.org/pgollangi)
+
+Or get in touch with me on [Twitter](https://twitter.com/pkgollangi)
