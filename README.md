@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm a developer who likes to work with Javascript 🤓
+I'm a developer who likes to work with any programming language 🤓
 
 Check:
 
