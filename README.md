@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanvs&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="Stephanvs" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanvs&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="Prasanna Kumar Gollangi" /></a></p>
 
 I'm a developer who likes to work with any programming language 🤓
 
