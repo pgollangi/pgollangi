@@ -21,7 +21,7 @@ I'm a developer who likes to work with any programming language 🤓
 
 Check:
 
-❤️ [My website](https://pgollangi.com/)
+❤️ [My website](https://pgollangi.github.io/)
 
 💻 [My portfolio](https://p11r.dev)
 
